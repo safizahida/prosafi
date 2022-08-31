@@ -1,0 +1,98 @@
+h1{
+    background-color: gainsboro;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.9);
+    transition: 0.3s;
+    padding: 20px;
+    text-align: center;
+    outline-color: gainsboro;
+    outline-style: groove;
+    font-size: 30px;
+}.container {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.7);
+    transition: 0.3s;
+    width: 600px;
+          height: 300px;
+          padding: 10px;
+          margin: 12px;
+          position: absolute;
+          left: 450px;
+}form{
+    position: absolute;
+    top: 140px;
+    left: 500px;
+    
+}button{
+ 
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.9);
+    transition: 0.3s;
+    color: white;
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    text-decoration: none;
+    top: 200px;
+    right: 200px;
+    font-size: 25px;
+    font-weight: bold;
+}a{
+    text-decoration: none;
+}
+select{
+    width: 560px;
+    height: 50px;
+    font-size: 23px;
+}span{
+    font-size: 23px;
+}table{
+    position: absolute;
+    top:500px;
+    left: 200px;
+}table th{
+    height: 30px;
+    
+    background-color:blue;
+    color: white;
+    font-size: 30px;
+}option{
+    text-align: right;
+}.ta{
+    width: 250px;
+    height: 60px;
+    border: 2px solid green;
+    position: absolute;
+    top: 400px;
+    margin: 20px;
+    background-color: green;
+    color: aliceblue;
+    font-weight: bolder;
+}p{
+    text-align: center;
+    padding: 0px;
+    font-size: 23px;
+}
+.zahida input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+  }.card{
+    position: absolute;
+    top: 500px;
+    right: 30px;
+    top:450px;
+    width: 150px;
+    height: 25px;
+  }.pa{
+    text-align: center;
+    padding: 0px;
+    font-size: 23px;
+    position: absolute;
+    top: 430px;
+    right: 200px;
+  }
+  
+  
+  
+  

@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+    padding: 70px;
+    background-color: blue;
+    color: aliceblue;
+    outline-style: groove;
+    outline-color: orange;
+    outline-width: 5px;
+    font-weight: bold;
+    font-style: Bahij Badr;
+    font-size: 35px;
+}
+.kdr{
+    position: absolute;
+    top:35px;
+    left: 300px;
+    width: 200px;
+    height: 180px;
+}.container {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.7);
+    transition: 0.3s;
+    width: 600px;
+          height: 300px;
+          padding: 10px;
+          margin: 12px;
+          position: absolute;
+          left: 450px;
+}
+form{
+    position: absolute;
+    top: 300px;
+    left: 900px;
+    
+    
+}button{
+    background-color: white;
+    border-color:black;
+    width: 600px;
+    height: 50px;
+    position: absolute;
+    text-decoration: none;
+    top: 200px;
+    right: 3px;
+    font-size: 25px;
+    font-weight: bold;
+}a{
+    text-decoration: none;
+
+}
